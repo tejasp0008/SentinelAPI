@@ -1,0 +1,35 @@
+# Visual Studio Code
+.vscode/
+
+# Python Envs
+venv/
+env/
+.venv/
+.env
+
+# Cache and Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases
+*.db
+*.sqlite3
+
+# Node modules and Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Misc
+.DS_Store
+coverage/
+.coverage
+htmlcov/
